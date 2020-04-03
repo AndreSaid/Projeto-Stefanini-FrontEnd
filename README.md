@@ -1,6 +1,8 @@
 # hackaton-stefanini-estatico
 ############## Stefanini Solutions - HACKATON STEFANINI ESTATICO ############## 
 
+Aluno: André Said
+
 1. Baixar o projeto no repositório: https://github.com/ticoleite80/hackaton-stefanini-estatico.git 
 2. Entrar na pasta raiz do projeto
 3. realizar o NPM INSTALL
